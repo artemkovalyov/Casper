@@ -133,8 +133,8 @@ production stylesheet in assets/built/screen.css
   max-width: 600px;
   margin: 0 auto;
   line-height: 1.2em;
-  opacity: 0.8;
-  background-color: rgba(105, 105, 105, 0.95);
+  /* opacity: 0.8; */
+  background-color: rgba(105, 105, 105, 0.93);
 }
 
 @media (max-width: 600px) {
